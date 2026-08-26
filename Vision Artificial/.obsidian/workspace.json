@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Actividad 1.1 25-agosto-2026"
             }
+          },
+          {
+            "id": "638d0ed0d20bd883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vision artificial/Unidad 1/Actividad 1.2 26-agosto-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Actividad 1.2 26-agosto-2026"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vision artificial/Unidad 1/Actividad 1.1 25-agosto-2026.md",
+                "file": "Vision artificial/Unidad 1/Actividad 1.2 26-agosto-2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vision artificial/Unidad 1/Actividad 1.1 25-agosto-2026.md",
+                "file": "Vision artificial/Unidad 1/Actividad 1.2 26-agosto-2026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -204,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vision artificial/Unidad 1/Actividad 1.1 25-agosto-2026.md",
+                "file": "Vision artificial/Unidad 1/Actividad 1.2 26-agosto-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -231,10 +245,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "328af7febbdb29c4",
+  "active": "638d0ed0d20bd883",
   "lastOpenFiles": [
-    "Vision artificial/Unidad 1/25- agosto- 2026.md",
     "Vision artificial/Unidad 1/Actividad 1.1 25-agosto-2026.md",
+    "Vision artificial/Unidad 1/Actividad 1.2 26-agosto-2026.md",
+    "Vision artificial/Unidad 1/25- agosto- 2026.md",
     "Vision artificial/Unidad 1/24-agosto-2026.md",
     "Vision artificial/Unidad 1/Tarea 1.md",
     "Vision artificial/Unidad 1/Tarea 1.pdf",
