@@ -11,10 +11,14 @@
             "id": "7cef9fd466f4e006",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Vision Artificial_AMS/Unidad _1/Actividad 1.1 25-agosto-2026.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Actividad 1.1 25-agosto-2026"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vision Artificial_AMS/Unidad _1/Actividad 1.1 25-agosto-2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vision Artificial_AMS/Unidad _1/Actividad 1.1 25-agosto-2026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Vision Artificial_AMS/Unidad _1/Actividad 1.1 25-agosto-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,6 +188,6 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "064d5bbae3d03b19",
+  "active": "7cef9fd466f4e006",
   "lastOpenFiles": []
 }

@@ -1,4 +1,4 @@
-## Clasificador de frutas mediante visión artificial
+### Clasificador de frutas mediante visión artificial
 
 Es una aplicación que utiliza una cámara y visión artificial para identificar diferentes tipos de frutas, como manzanas, plátanos, naranjas o fresas. El sistema analiza características de la imagen, como color, forma y tamaño, para determinar qué fruta está observando.
 
