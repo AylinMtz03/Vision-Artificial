@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vision Artificial_AMS/Unidad _1/Actividad 1.1_25-agosto-2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vision Artificial_AMS/Unidad _1/Actividad 1.1_25-agosto-2026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vision Artificial_AMS/Unidad _1/Actividad 1.1_25-agosto-2026.md",
+                "file": "Vision Artificial_AMS/Unidad_2/Actividad 2.1 15 de septiembre del 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,10 +186,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "7cef9fd466f4e006",
+  "active": "064d5bbae3d03b19",
   "lastOpenFiles": [
+    "Vision Artificial_AMS/Unidad _1/Actividad 1.1_25-agosto-2026.md",
+    "Vision Artificial_AMS/Unidad_2/Actividad 2.1 15 de septiembre del 2026.md",
+    "Vision Artificial_AMS/Unidad_2",
     "Vision Artificial_AMS/Unidad _1/Tarea_1.pdf",
-    "Vision Artificial_AMS/Unidad _1/Actividad 1.2_ 26-agosto-2026.md",
-    "Vision Artificial_AMS/Unidad _1/Actividad 1.1_25-agosto-2026.md"
+    "Vision Artificial_AMS/Unidad _1/Actividad 1.2_ 26-agosto-2026.md"
   ]
 }
